@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MySQL Server",
+    "proc": "mysqld",
+    "restart": "sudo service mysql start"
+  },
+  {
+    "name": "XXXXX",
+    "proc": "XXXXX",
+    "restart": "XXXXXXXX"
+
+  },
+]
+
+/*
+	We can use as many services we want
+*/
